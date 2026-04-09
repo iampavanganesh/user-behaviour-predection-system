@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Generated model files (too large for GitHub)
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Dataset (downloaded automatically at runtime)
+online_shoppers_intention.csv
+*.csv
+
+# Generated figures (auto-created when notebook runs)
+figures/
+*.png
+*.jpg
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
