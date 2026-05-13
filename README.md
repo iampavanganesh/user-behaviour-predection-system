@@ -62,7 +62,7 @@ UCI Repository: https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasi
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/UserBehaviourPredictionSystem.git
+git clone https://github.com/iampavanganesh/user-behaviour-predection-system.git
 cd UserBehaviourPredictionSystem
 ```
 
